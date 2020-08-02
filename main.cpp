@@ -122,8 +122,8 @@ void open()
  */
 bool hasGas(int milesDriven, int tankCapacity = 10)
 {
-  ignoreUnused(milesDriven, tankCapacity);
-  return{};
+    ignoreUnused(milesDriven, tankCapacity);
+    return{};
 }
 /*
  6)
